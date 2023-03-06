@@ -1,0 +1,209 @@
+a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:26:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"প্রথম আলো";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:27:"https://www.prothomalo.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:25:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"href";s:26:"https://www.prothomalo.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:31:"https://www.prothomalo.com/feed";s:3:"rel";s:4:"self";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"entry";a:20:{i:0;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:24e89116-01b0-4e5d-919c-df6222907c6c";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:137:"বিশ্বকাপ ফাইনাল নিয়ে ‘আড্ডা’ হয়েছে মেসি–এমবাপ্পের";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:25:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:25:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:28:"খেলা ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:53:"https://www.prothomalo.com/sports/football/274u95oj7n";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:674:"পিএসজিতে মেসির সতীর্থ এমবাপ্পে। দুজনের সম্পর্ক নিয়ে কানাঘুষার শুরু বিশ্বকাপ জেতার পর আর্জেন্টাইন দলের উৎসবকে কেন্দ্র করে। কাতার থেকে দেশে ফেরার পর আর্জেন্টিনা গোলকিপার এমিলিয়ানো মার্তিনেজ এমবাপ্পের পুতুল হাতে নিয়ে তাঁকে কটাক্ষ করে বিতর্কের জন্ম দেন";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:15:"ফুটবল";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:4dc97c8b-ef68-4e88-a178-efd93f3ddfdb";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:98:"ছুটির সকালে বইমেলার মাঠ শিশুদের দখলে";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:13:52.982Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:13:52.982Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"নিজস্ব প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:48:"https://www.prothomalo.com/bangladesh/mx1v4dukz6";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:213:"বেলা সাড়ে তিনটায় শুরু হবে এ বছরের বইমেলায় শিশুদের জন্য বিশেষ আয়োজন ‘শিশুপ্রহর’।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:24:"বাংলাদেশ";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:914e0530-b199-4005-a4e7-602893231901";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"টিকটককে পেছনে ফেলল চ্যাটজিপিটি";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:03:47.297Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:03:47.297Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:43:"প্রযুক্তি ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:48:"https://www.prothomalo.com/technology/u5w82ql3l6";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:309:"গত বছরের নভেম্বরে বাজারে আসার পর মাত্র দুই মাসের মধ্যেই মাসে ১০ কোটিরও বেশি সক্রিয় ব্যবহারকারী পেয়েছে চ্যাটজিপিটি। ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:27:"প্রযুক্তি";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:8ec14737-ab02-4b1a-bca0-85a7c75e1ea9";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:99:"কুদরত-ই-হুদা পেলেন মাইকেল মধুসূদন পদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:38:"অন্য আলো ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:45:"https://www.prothomalo.com/onnoalo/4n8j0b1qxc";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:670:"মাইকেল মধুসূদন দত্তের ১৯৯তম জন্মবার্ষিকী উপলক্ষে ‘মহাকবি মধুসূদন পদক ২০২৩’ পেলেন প্রাবন্ধিক ও গবেষক কুদরত-ই-হুদা। বাংলা একাডেমি থেকে প্রকাশিত জাতীয়তাবাদী চিন্তার বিকাশ: বাংলাদেশের ষাটের দশকের কবিতা গ্রন্থের জন্য তাঁকে এ বছর পুরস্কারটি দেওয়া হয়েছে। ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:22:"অন্য আলো";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:8c692bc4-bc05-4cd3-9c40-298d570b5ebf";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:128:"অনন্যা সাহিত্য পুরস্কারে ভূষিত শাহ্​নাজ মুন্নী";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:38:"অন্য আলো ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:45:"https://www.prothomalo.com/onnoalo/4lx3a9fyhh";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:422:"কবি ও কথাসাহিত্যিক শাহ্​নাজ মুন্নী এ বছর অনন্যা সাহিত্য পুরস্কারে ভূষিত হয়েছেন। গল্প, উপন্যাস ও কবিতায় তাঁর অনন্য অবদানের জন্য তাঁকে এই পুরস্কার দেওয়া হয়েছে। ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:22:"অন্য আলো";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:76c0acb1-e5a3-411c-88c2-4d373aac2f3e";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:133:"সরুদাসীকে মনে হয় স্বপ্নে কুড়িয়ে পাওয়া কোনো চরিত্র";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"লেখা: ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:46:"https://www.prothomalo.com/writings/5evh8zhqs8";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:693:"উপন্যাসের সমাপ্তি একেবারে অনাকাঙ্ক্ষিত ও বিস্ময়কর। তখন সরুদাসীকে মনে হয় স্বপ্নে কুড়িয়ে পাওয়া কোনো চরিত্র। উপন্যাসে লেখক কাব্যিক উপমা ও রূপকের সাহায্যে যেসব বাক্যবন্ধ তৈরি করেছেন, তা আসলে অসাধারণ। এ জন্য সংক্ষিপ্ত এ উপন্যাস বাংলা সাহিত্যের একটি অনন্য সৃষ্টি।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:8:"writings";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:6538d6f4-2939-4300-9523-695187e6c741";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:96:"চার খাত ছাড়া বাকিগুলোতে দুশ্চিন্তা ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T09:00:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"নিজস্ব প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:56:"https://www.prothomalo.com/business/economics/lzpi0rttjt";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:611:"সংকটের মধ্যেও পণ্য রপ্তানিতে প্রবৃদ্ধি ধরে রাখতে পেরেছে বাংলাদেশ। গত জানুয়ারিতে ৫১৩ কোটি ডলারের পণ্য রপ্তানি হয়েছে। এ রপ্তানি গত বছরের জানুয়ারির তুলনায় ৫ দশমিক ৮৯ শতাংশ বেশি। যদিও ডিসেম্বরে রপ্তানিতে প্রবৃদ্ধি ছিল সাড়ে ১০ শতাংশ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:24:"অর্থনীতি";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:ff5d0a7e-9d75-4f8a-9287-7d77af81ad66";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:236:"সরকার নির্ধারিত দামে বিক্রি হচ্ছে না এলপিজি গ্যাস, ৩০০ টাকা পর্যন্ত অতিরিক্ত নেওয়া হচ্ছে";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:56:58.032Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:56:58.032Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"নিজস্ব প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:56:"https://www.prothomalo.com/bangladesh/capital/w0a8wop531";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:284:"ক্রেতা সাদিকুর রহমান বললেন, ‘আমার তো উপায় নেই। এর চেয়ে কম দামে কেউ বিক্রি করছে না। আমরা জিম্মি অবস্থায় আছি।’";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:21:"রাজধানী";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:8f089c22-ff90-44a4-8c95-ea06b39d2c6a";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:118:"ভারত থেকে নৌপথে হেরোইন এনে ছড়িয়ে দিতেন তাঁরা";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:50:53.995Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:50:53.995Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"নিজস্ব প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:54:"https://www.prothomalo.com/bangladesh/crime/m99ipo5r46";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:384:"সংবাদ সম্মেলনে বলা হয়, তিন ব্যক্তির কাছ থেকে ৫ কেজি ৪০০ গ্রাম হেরোইন উদ্ধার করা হয়। তাঁদের কাছ থেকে উদ্ধার হওয়া হেরোইনের দাম প্রায় পাঁচ কোটি টাকা।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:15:"অপরাধ";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:bdfafa26-e836-47ca-b11e-a58c0f6e7afd";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:128:"পরিবেশ অধিদপ্তরে ২৭৫ পদে চাকরি, আবেদন শেষ রোববার";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:50:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:50:00.000Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:41:"প্রথম আলো ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:55:"https://www.prothomalo.com/chakri/employment/dqmhwfq5xl";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:523:"পরিবেশ অধিদপ্তরের অধীনে রাজস্ব খাতে স্থায়ী ও অস্থায়ী ভিত্তিতে একাধিক পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করা হয়েছে। এই অধিদপ্তরে ১৩ ক্যাটাগরির পদে ১২ থেকে ২০তম গ্রেডে ২৭৫ জন কর্মী নিয়োগ দেওয়া হবে।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:15:"নিয়োগ";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:349ffd85-7b8b-4542-aa66-db1fc0fc3f53";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"সব্যসাচী মানেই নতুন চমক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:46:40.296Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:46:40.296Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:65:"ফ্লোরিডা শুভ্রা রোজারিও";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:57:"https://www.prothomalo.com/fashion/accessories/b78l84akig";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:597:"ভারতীয় সেলিব্রিটি ফ্যাশন ও ব্রাইডাল ওয়্যার ডিজাইনার সব্যসাচী মুখার্জি সম্প্রতি তাঁর নতুন বছরের জুয়েলারি সংগ্রহ লঞ্চ করেছেন, যা সত্যিকার অর্থেই রাজকীয় ও বিলাসবহুল। সব্যসাচীর পোশাক কিংবা জুয়েলারি—সবকিছুতেই ঐতিহ্যের চমক। ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:21:"অনুষঙ্গ";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:637279ca-9dab-46ad-af25-59765ad4ace1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:109:"শিশুটির বাড়িতে একে একে এল লাখ টাকার খাবার";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:46:26.714Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:46:26.714Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"সিএনএন";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:47:"https://www.prothomalo.com/world/usa/0ideqocjxj";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:472:"তিনি আরও বলেন, ‘ও তখন ওর হাত তুলে আমাকে থামিয়ে দিল এবং বলল, বাবা পেপারনি পিৎজা এখনো আসেনি? আমি ওই কক্ষ থেকে বের হয়ে এলাম। আমি কি উন্মাদ হয়ে যাব নাকি হাসব, কিছুই বুঝে উঠতে পারছিলাম না।’";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:36:"যুক্তরাষ্ট্র";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:34821391-3591-45b5-b7f5-449cdaaef044";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:110:"এনজো ফার্নান্দেজের আচরণে খুশি নয় বেনফিকা";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:41:44.047Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:41:44.047Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:28:"খেলা ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:53:"https://www.prothomalo.com/sports/football/ywebfycnqs";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:426:"এনজো ফার্নান্দেজকে পর্তুগিজ ক্লাব বেনফিকা থেকে চেলসি ১২ কোটি ১০ লাখ ইউরোয় (বাংলাদেশি মুদ্রায় ১৩৯৯ কোটি টাকা) সই করেছে, যা ইংলিশ প্রিমিয়ার লিগ ইতিহাসেরও সর্বোচ্চ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:15:"ফুটবল";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:10:"
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:5e1676db-ec90-4d06-84ac-9d518aabcc43";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:210:"রামপাল তাপবিদ্যুৎকেন্দ্রের চুরি যাওয়া অর্ধকোটি টাকার যন্ত্র ঢাকা থেকে উদ্ধার";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:38:55.398Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:38:55.398Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:27:"প্রতিনিধি";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:57:"https://www.prothomalo.com/bangladesh/district/nxtm4ri567";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:569:"১৪ জানুয়ারি রাতে রামপাল বিদ্যুৎকেন্দ্রের কেমিক্যাল হাউস এরিয়ার কয়লা টেস্টিং ল্যাব-২ থেকে কয়লার দাহ্য ক্ষমতা পরীক্ষার যন্ত্রটি চুরি হয়ে যায়। রামপাল থানার পুলিশ মামলা তদন্ত নেমে ১৯ দিনের মাথায় যন্ত্রটি উদ্ধার করল।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:12:"জেলা";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:15:"অপরাধ";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:3ef602bf-edf1-4614-827a-df72f0d601e0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:126:"রিজার্ভের প্রকৃত হিসাবায়ন করতে হবে জুনের মধ্যে";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:30:16.620Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:30:16.620Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"নিজস্ব প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:46:"https://www.prothomalo.com/business/48pyxk3mbi";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:836:"আইএমএফের কাছে বাংলাদেশ প্রতিশ্রুতি দিয়েছে, ব্যবহারযোগ্য প্রকৃত (নিট) রিজার্ভ ধীরে ধীরে বাড়ানো হবে, যাতে ২০২৬ সালের মধ্যে নিট রিজার্ভ দিয়ে চার মাসের আমদানি দায় মেটানো যায়। এ জন্য চাহিদা কমানোর পাশাপাশি মুদ্রার ভাসমান বিনিময় হার চালু করা হবে। এর ফলে বিদেশি বিনিয়োগ আসবে এবং কর্মসংস্থান বাড়বে বলে প্রত্যাশা করা হচ্ছে।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:21:"বাণিজ্য";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:10:"
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:2250c896-d6f3-426b-bc6f-568fb95ffcc5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:168:"শহরে অনুমতি মেলেনি, ফরিদপুরে বিএনপির সমাবেশ আবারও সেই কোমরপুরে";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:22:06.937Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:22:06.937Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"নিজস্ব প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:57:"https://www.prothomalo.com/bangladesh/district/rwa5oqnjrx";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:375:"বিএনপির বিভাগীয় সমাবেশকে সামনে রেখে নির্দিষ্ট কোনো কর্মসূচি গ্রহণ করেনি জেলা আওয়ামী লীগ। তবে দলের নেতা-কর্মীরা মাঠে থাকবেন বলে জানা গেছে।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:12:"জেলা";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:21:"রাজনীতি";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:819cb7b3-ca56-4172-bd24-e276da92c28e";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:118:"পুরোনো ‘গুমর’ নতুন করে ফাঁস করল জাতীয় পার্টি";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:03:05.980Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:03:05.980Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:31:"সেলিম জাহিদ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:46:"https://www.prothomalo.com/politics/g8yn7vzs2b";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:530:"মোতাহার হোসেন বলেছেন, ২০১৪ সালের নির্বাচনে তাঁর সঙ্গে প্রতিদ্বন্দ্বিতা করে জাতীয় পার্টির চেয়ারম্যান হুসেইন মুহম্মদ এরশাদ জামানত হারিয়েছিলেন। মোতাহারের এই বক্তব্য জাতীয় পার্টির নেতাদের গায়ে লাগে।";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:21:"রাজনীতি";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:382f1f49-4ae0-489b-ad16-8b90f718f9aa";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:115:"২০২৪ প্যারিস অলিম্পিক বয়কট করতে পারে ৪০ দেশ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:02:04.240Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:02:04.240Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:28:"খেলা ডেস্ক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:44:"https://www.prothomalo.com/sports/ajz1c6fe7w";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:173:"রাশিয়া ও বেলারুশকে অংশ নিতে দিয়ে অলিম্পিক বয়কট করতে ৪০টির মতো দেশ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:12:"খেলা";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:d1134478-add7-4eb5-9566-dcb68cfaaf7d";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:192:"বিমানবন্দরে দেখা হতেই শাকিব খানকে শোয়েব মালিকের প্রশ্ন, ‘ভাই কেমন আছেন?’";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:01:00.826Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:01:00.826Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:46:"বিনোদন প্রতিবেদক";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:62:"https://www.prothomalo.com/entertainment/dhallywood/qufjoli78a";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:94:"কী কথা হলো শাকিব খান ও শোয়েব মালিকের";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:18:"ঢালিউড";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:9:"
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:45:"urn:uuid:53ed2d5f-70bf-4c99-a945-6fa9086c2269";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:97:"১৩ মৃত্যুতেও পুলিশের এমন ‘হেলাফেলা’";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:00:49.974Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:24:"2023-02-03T08:00:49.974Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:28:"গাজী ফিরোজ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:4:"href";s:54:"https://www.prothomalo.com/bangladesh/crime/su1u1l4awf";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"summary";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"term";s:15:"অপরাধ";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:11:{s:10:"x-amz-id-2";s:76:"6nVVowNACEwoWLmN9RcFJsHOS7bJKqjUniSn5SLbMSO4faBXkKpDStSP4sWxC5+Mw0q7vjplTro=";s:16:"x-amz-request-id";s:16:"QJZ4VGJ4YCQWDWXJ";s:4:"date";s:29:"Fri, 03 Feb 2023 09:26:25 GMT";s:24:"x-amz-replication-status";s:7:"PENDING";s:13:"last-modified";s:29:"Fri, 03 Feb 2023 09:25:04 GMT";s:4:"etag";s:34:""dc47875f9d4716a62e05c7de0ff2c0c4"";s:16:"x-amz-version-id";s:32:"GAGMG_XVmb2n4g8QUCH33JF7OOOMJHnX";s:13:"accept-ranges";s:5:"bytes";s:12:"content-type";s:35:"application/atom+xml; charset=utf-8";s:6:"server";s:8:"AmazonS3";s:14:"content-length";s:5:"19863";}s:5:"build";i:1673516105;}
